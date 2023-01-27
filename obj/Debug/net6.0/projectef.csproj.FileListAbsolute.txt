@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.AssemblyInfo.cs
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\platzi\fundamentos de entity framework\1\projectef\obj\Debug\net6.0\projectef.MvcApplicationPartsAssemblyInfo.cache

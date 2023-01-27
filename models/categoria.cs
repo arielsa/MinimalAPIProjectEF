@@ -1,4 +1,4 @@
-namespace proyectef.Models;
+namespace projectef.Models;
 
 public class Categoria {
 
